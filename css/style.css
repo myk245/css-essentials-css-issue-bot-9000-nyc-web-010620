@@ -14,10 +14,10 @@ h2 {
 }
 
 .completed {
-  font-family: "Times New Roman", Times, serif; 
+  font-family: "Times New Roman", Times, serif;
 }
 
 #tasks .completed {
-  backgound: #ccc;
+  background: #ccc;
   text-decoration: underline;
 }
